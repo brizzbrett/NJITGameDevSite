@@ -241,7 +241,7 @@
       </footer> <!-- /#footer -->
     <?php endif; ?>
 	
-    <p class="<?php if(theme_get_setting('red_footerlogo')==0): ?>nocredit<?php endif; ?>">Theme by <a href="http://itapplication.net" target="_blank">iTApplication.net</a>. For theme development contact shiv@itweb.in</p>	
+    <p class="<?php if(theme_get_setting('red_footerlogo')==0): ?>nocredit<?php endif; ?>">Theme by Brett and Eric. For theme development contact dfu3@njit.edu</p>	
   </div></div> <!-- /.section, /#footer-wrapper -->
 
 </div></div> <!-- /#page, /#page-wrapper -->

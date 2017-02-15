@@ -42,7 +42,7 @@ a:active,
 
 #page-wrapper,
 #footer-wrapper {
-  background: #bb0000;
+  background: #30354b;
 }
 .region-header,
 .region-header a,
@@ -165,7 +165,7 @@ ul.links {
 /* ------------------ Footer ------------------ */
 
 #footer-wrapper {
-  color: #c0c0c0;
+  color: #30354b;
   color: rgba(255, 255, 255, 0.65);
 }
 #footer-wrapper a {
