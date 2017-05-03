@@ -52,7 +52,6 @@
       <?php print render($page['navigation']); ?>
   </div>
 
-
   <div id="main">
   <?php print render($page['home_slider']); ?>
     <div id="content" class="column" role="main">
